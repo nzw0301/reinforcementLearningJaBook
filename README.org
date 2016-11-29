@@ -1,0 +1,8 @@
+* What is?
+
+[[https://www.amazon.co.jp/%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%81%AE%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92-%E7%89%A7%E9%87%8E-%E8%B2%B4%E6%A8%B9/dp/4627880316][これからの強化学習]] に出てくるアルゴリズムの実装置き場．
+
+* requirement
+
+- Python3 (I recommend anaconda3)
+- jupyter notebook
